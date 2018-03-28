@@ -10,5 +10,5 @@ This project implements an Android application that allows the user to have easy
 ## Running the tests
 
 ## Authors
-Yitong Chen - /*initial work and structure*/ - [yitongc19](https://github.com/yitongc19)
-Yidan Chen - /*audio recordings*/ - [YvonneYidanChen](https://github.com/YvonneYidanChen)
+* **Yitong Chen** - *initial work and structure* - [yitongc19](https://github.com/yitongc19)
+* **Yidan Chen** - *audio recordings* - [YvonneYidanChen](https://github.com/YvonneYidanChen)
